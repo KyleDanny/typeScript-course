@@ -107,6 +107,7 @@
     "Section2/*.ts", // ignore files
     "Section3/*.ts",
     "Section5/*.ts",
+    "Section6/*.ts",
     "node_modules" // would be the default
   ], 
   // "include": [
